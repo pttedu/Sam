@@ -4,7 +4,7 @@
     "description": "Moodle Mobile 2: The official mobile app for Moodle.",
     "repository": {
         "type": "git",
-        "url": "https://github.com/moodlehq/moodlemobile2.git"
+        "url": "https://github.com/pttedu/Sam"
     },
     "license": "Apache-2.0",
     "licenses": [
