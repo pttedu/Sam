@@ -1,6 +1,6 @@
 {
-    "app_id" : "edu.ptt.test",
-    "appname": "PTTI",
+    "app_id" : "edu.ptti.test",
+    "appname": "PTTIs",
     "versioncode" : "2018",
     "versionname" : "3.3.0",
     "cache_expiration_time" : 300000,
