@@ -1,6 +1,6 @@
 {
   "name": "moodlemobile2",
-  "app_id": "",
+  "app_id": "edu.ptt.test",
   "gulpStartupTasks": [
     "build",
     "sass",
