@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="edu.ptt.test" version="3.3.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0"
+<widget id="edu.ptti.test" version="3.3.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"    
         >
-    <name>PTTI</name>
+    <name>PTTs</name>
     <description>Official PTTI App</description>
     <author email="juan@moodle.com" href="http://moodle.com">Juan Leyva</author>    
         
